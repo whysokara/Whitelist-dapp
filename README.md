@@ -1,2 +1,1 @@
-# whitelist-Dapp
- A whitelist-dapp
+# Whitelist-dapp
